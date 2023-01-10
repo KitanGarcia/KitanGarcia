@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
  <h1 align="center">Hello 👋, I'm Kitan </h1>  
  
-<h3 align="center">I'm a full stack engineer always itching to build and trying to make the world a better place. Currently, I've been having fun building on the Solana blockchain and exploring its unique applications.</h3>
+<h3 align="center">I'm a full stack engineer always itching to build and trying to make the world a better place. I love learning new tech, and have lately been having fun building on the Solana blockchain and exploring its unique applications.</h3>
 <br />
 
 ### Let's work together!
